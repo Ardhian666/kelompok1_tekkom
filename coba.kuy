@@ -1,0 +1,13 @@
+a=1
+b=2
+y="BENAR"
+n="SALAH"
+c="Apakah 1 + 2 = 3?"
+
+cetak c
+
+jika a+b==3 maka cetak y namun_jika cetak n
+
+d="Hasil dari 1 + 2 adalah..."
+cetak d
+cetak a+b
